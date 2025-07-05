@@ -25,4 +25,4 @@ Essential meta tags are included in the `<head>` section to help search engines 
 <meta name="author" content="[Your Name]">
 
 ```
-#### Porject Link: https://roadmap.sh/projects/single-page-cv
+#### Project Link: https://roadmap.sh/projects/single-page-cv
